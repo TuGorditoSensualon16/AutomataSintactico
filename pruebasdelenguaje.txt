@@ -1,0 +1,33 @@
+#Errores lexicos 
+
+int main() {
+    int numero = 5;
+    float precio = 10.99.
+    std::cout << "Hola mundo" << std::endl;
+    return 0;
+}
+
+
+#Doble comentario
+// Este es un comentario de una línea
+/*
+   Este es un comentario
+   de varias líneas
+*/
+#include <iostream>
+
+int main() {
+    int numero = 5;
+    std::cout << "Hola mundo" << std::endl; // Comentario
+    return 0;
+}
+
+#codigo simple hello 
+#include <iostream>
+
+int main() {
+    int numero = 5;
+    std::cout << "Hola mundo" << std::endl;
+    return 0;
+}
+
